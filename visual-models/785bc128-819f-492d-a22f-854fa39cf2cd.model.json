@@ -188,8 +188,8 @@
       "model": "http://dataspecer.com/packages/local-root/f5e958f5-878a-4e01-890f-56ab9a2baf03/17a78a3f-ce77-44ac-b095-40d8f0f1fe18",
       "representedEntity": "http://purl.org/dc/terms/MediaType",
       "position": {
-        "x": 930,
-        "y": 530,
+        "x": 870,
+        "y": 480,
         "anchored": null
       },
       "content": [],
@@ -214,8 +214,8 @@
       "model": "http://dataspecer.com/packages/local-root/f5e958f5-878a-4e01-890f-56ab9a2baf03/17a78a3f-ce77-44ac-b095-40d8f0f1fe18",
       "representedEntity": "http://purl.org/dc/terms/MediaTypeOrExtent",
       "position": {
-        "x": 460,
-        "y": 800,
+        "x": 450,
+        "y": 770,
         "anchored": null
       },
       "content": [],
